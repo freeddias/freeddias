@@ -17,7 +17,7 @@
 ## 🗄️ Banco de Dados: 
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 ## ⚙️ Ferramentas:
-(https://skillicons.dev/icons?i=git,github,visualstudio)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio)](https://skillicons.dev)
 
 ## 📫 Contato
 
