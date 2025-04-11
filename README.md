@@ -1,14 +1,12 @@
 # 👋 Olá, eu sou Frederico Milagres
 
 ## 💼 Perfil Profissional
-
 - 💻 Dev. FullStack
 - 🌱 Apaixonado por Tecnologia
-- 🎓 Cursando [Nome do Curso / Instituição]
-
-## 🚀 Habilidades
-
-Aqui estão algumas das linguagens de programação e tecnologias que estou familiarizado:
+- 🎓 Graduado em Sistemas para Internet
+- 🎓 Graduado em Marketing Digital
+- 🎓 Pós Graduado em Inteligência Artificial e Machine Learning
+- 🎓 MBA em Gestão de Projetos
 
 ## 👨‍💻 Linguagens: 
 [![My Skills](https://skillicons.dev/icons?i=javascript,c,php)](https://skillicons.dev)
@@ -16,10 +14,10 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 ## 🧰 Frameworks: 
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs)](https://skillicons.dev)
 
-## 🗄️ Bancos de Dados: 
+## 🗄️ Banco de Dados: 
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 ## ⚙️ Ferramentas:
-[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio)]<br><br>
+(https://skillicons.dev/icons?i=git,github,visualstudio)<br><br>
 
 ## 📫 Contato
 
