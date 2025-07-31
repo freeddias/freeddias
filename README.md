@@ -6,6 +6,7 @@
 - 🎓 Graduado em Marketing Digital
 - 🎓 Pós Graduado em Inteligência Artificial e Machine Learning
 - 🎓 MBA em Gestão de Projetos
+- 🎓 Pós Graduando em DevOps
 
 ## 👨‍💻 Linguagens 
 [![My Skills](https://skillicons.dev/icons?i=javascript,c,php)](https://skillicons.dev)
@@ -14,7 +15,7 @@
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs)](https://skillicons.dev)
 
 ## 🗄️ Banco de Dados 
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 ## ⚙️ Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio)](https://skillicons.dev)
 
