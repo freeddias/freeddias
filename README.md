@@ -12,12 +12,12 @@
 ![My Skills](https://skillicons.dev/icons?i=javascript,c,php)
 
 ## 🧰 Frameworks
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=react,nodejs)
 
 ## 🗄️ Banco de Dados 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=mysql,postgres)
 ## ⚙️ Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio)
 
 ## 📫 Contato
 ![Gmail Badge](https://img.shields.io/badge/-fredericodbmilagres@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail})
