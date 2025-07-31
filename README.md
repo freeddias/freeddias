@@ -9,7 +9,7 @@
 - 🎓 Pós Graduando em DevOps
 
 ## 👨‍💻 Linguagens 
-[![My Skills](https://skillicons.dev/icons?i=javascript,c,php)]
+![My Skills](https://skillicons.dev/icons?i=javascript,c,php)
 
 ## 🧰 Frameworks
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs)](https://skillicons.dev)
