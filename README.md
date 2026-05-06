@@ -12,7 +12,7 @@
 ![My Skills](https://skillicons.dev/icons?i=javascript,c,php,java)
 
 ## 🧰 Frameworks
-![My Skills](https://skillicons.dev/icons?i=react,nodejs)
+![My Skills](https://skillicons.dev/icons?i=react,nodejs,laravel)
 
 ## 🗄️ Banco de Dados 
 ![My Skills](https://skillicons.dev/icons?i=mysql,postgres)
