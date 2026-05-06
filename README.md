@@ -17,7 +17,7 @@
 ## 🗄️ Banco de Dados 
 ![My Skills](https://skillicons.dev/icons?i=mysql,postgres)
 ## ⚙️ Ferramentas
-![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio)
+![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,n8n)
 
 ## 📫 Contato
 ![Gmail Badge](https://img.shields.io/badge/-fredericodbmilagres@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail})
