@@ -21,4 +21,4 @@
 
 ## 📫 Contato
 ![Gmail Badge](https://img.shields.io/badge/-fredericodbmilagres@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail})
-![Linkedin: Frederico Dias](https://img.shields.io/badge/-freeddias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/freeddias/)(https://www.linkedin.com/in/freeddias/)
+[![Linkedin: Frederico Dias](https://img.shields.io/badge/-freeddias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/freeddias/)(https://www.linkedin.com/in/freeddias/)]
