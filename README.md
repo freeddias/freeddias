@@ -6,10 +6,10 @@
 - 🎓 Graduado em Marketing Digital
 - 🎓 Pós Graduado em Inteligência Artificial e Machine Learning
 - 🎓 MBA em Gestão de Projetos
-- 🎓 Pós Graduando em DevOps
+- 🎓 Pós Graduado em DevOps
 
 ## 👨‍💻 Linguagens 
-![My Skills](https://skillicons.dev/icons?i=javascript,c,php)
+![My Skills](https://skillicons.dev/icons?i=javascript,c,php,java)
 
 ## 🧰 Frameworks
 ![My Skills](https://skillicons.dev/icons?i=react,nodejs)
