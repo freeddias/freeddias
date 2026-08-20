@@ -15,7 +15,7 @@
 ## 🗄️ Banco de Dados 
 ![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite)
 ## ⚙️ Ferramentas
-![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio)
+![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,vscode)
 ## 📫 Contato
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:fredericodbmilagres@gmail.com)
 [![Linkedin: Frederico Dias](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/freeddias/)
